@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+[![Ignacio's GitHub stats](https://github-readme-stats-amber-sigma.vercel.app/api?username=imontesino&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-amber-sigma.vercel.app/api/top-langs/?username=imontesino&layout=compact&count_private=true&hide=javascript,html,Jupyter%20Notebook,CSS,c%23,Makefile,Tex,GLSL,qmake,M4,scilab&show_icons=true&include_all_commits=false&is_fork=false)](https://github.com/anuraghazra/github-readme-stats)
+
